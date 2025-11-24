@@ -15,6 +15,8 @@ A cozy, minimal top-down farming game made with Love2D.
 
 Make sure you have [Love2D](https://love2d.org/) installed, then:
 
+go into the project through *vscode* or *cd* into it.
+
 ```bash
 love .
 ```
@@ -22,3 +24,4 @@ love .
 
 
 *Made with Love2D.* 
+
