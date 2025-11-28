@@ -9,9 +9,12 @@ A cozy, minimal top-down farming game made with Love2D.
 - **2** - Select Seeds
 - **3** - Select Watering Can
 - **4** - Select Hand
+- **b** - Open the shop
+- **v** - Open the sell UI
 - **Left click** - Use current tool
-- **Left click** - to move around the camera
-- **scroll wheel** - to zomm in and out
+- **Left click** - To move around the camera
+- **scroll wheel** - To zomm in and out
+
 
 ## Running the Game
 
@@ -26,5 +29,6 @@ love .
 
 
 *Made with Love2D.* 
+
 
 
