@@ -10,6 +10,8 @@ A cozy, minimal top-down farming game made with Love2D.
 - **3** - Select Watering Can
 - **4** - Select Hand
 - **Left click** - Use current tool
+- **Left click** - to move around the camera
+- **scroll wheel** - to zomm in and out
 
 ## Running the Game
 
@@ -24,4 +26,5 @@ love .
 
 
 *Made with Love2D.* 
+
 
