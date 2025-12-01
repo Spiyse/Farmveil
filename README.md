@@ -52,10 +52,11 @@ Or simply drag the folder onto love.exe.
 
 
 
+| 🛠 Built With ||
+| :--- | :--- |
+| Love2D | **game engine/framework** |
+| Lua | **scripting** |
+| LibreSprite | **pixel art** |
+| sfxr.me | **sound effects** |
 
-🛠 Built With
-Love2D – game engine
-Lua – scripting
-LibreSprite – pixel art
-sfxr.me – sound effects
 
