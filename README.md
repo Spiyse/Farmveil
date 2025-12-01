@@ -11,11 +11,15 @@ Plant crops, water them, harvest your resources, and expand your farm at your ow
 | Select Seeds | **2** |
 | Select Watering Can | **3** |
 | Select Hand | **4** |
+| Select Sprinkler | **5** |
 | Use Tool | **Left Click** |
 | Move Camera | **Right Click** (drag) |
 | Zoom In/Out | **Scroll Wheel** |
 | Open Shop | **B** |
 | Open Sell Menu | **V** |
+
+
+to pickup sprinklers, you can either use your hand or the hoe tool.
 
 ## ▶️ Running the Game
 
@@ -54,3 +58,4 @@ Love2D – game engine
 Lua – scripting
 LibreSprite – pixel art
 sfxr.me – sound effects
+
