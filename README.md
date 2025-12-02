@@ -1,4 +1,12 @@
-# Farmveil 🌱
+# Farmveil   🌱
+
+
+# DOKUMENTĀCIJA - KRIEVIŅAM ❗❗❗❗❗❗❗
+https://docs.google.com/document/d/1oScV-0Q1k9CLTtt_Null74X1elElKq9A8mVSDd-HSt4/edit?usp=sharing 
+# DOKUMENTĀCIJA - KRIEVIŅAM ❗❗❗❗❗❗❗
+
+#### v1
+
 
 Farmveil is a cozy, minimalist top-down farming game built with Love2D.
 Plant crops, water them, harvest your resources, and expand your farm at your own pace.
@@ -58,5 +66,6 @@ Or simply drag the folder onto love.exe.
 | Lua | **scripting** |
 | LibreSprite | **pixel art** |
 | sfxr.me | **sound effects** |
+
 
 
